@@ -1,7 +1,7 @@
 {
     "port":     "8987"
-    , "id":     "7dsf76sdf76fsd7dsf76sdf76"
-    , "url":    "http://muxing-dmbb.c9users.io"
+    , "id":     "muxingID"
+    , "url":    "http://your.url.deployed"
     , "dir":    "impress.js"
     , "file":   "index.html"
     , "plugin": "impress"
